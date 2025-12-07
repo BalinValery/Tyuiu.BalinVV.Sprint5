@@ -4,7 +4,14 @@ internal class Program
     private static void Main(string[] args)
     {
         DataService ds = new DataService();
-
+        Console.Title = "Спринт #5 | Выполнил: Балин В.В. | СМАРТб-25-1";
+        Console.WriteLine("***************************************************************************");
+        Console.WriteLine("* Спринт #5                                                               *");
+        Console.WriteLine("* Тема: Обработка текствовых файлов                                       *");
+        Console.WriteLine("* Задание #7                                                              *");
+        Console.WriteLine("* Вариант #7                                                              *");
+        Console.WriteLine("* Выполнил: Балин В.В. | СМАРТб-25-1                                      *");
+        Console.WriteLine("***************************************************************************");
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
         Console.WriteLine("***************************************************************************");
